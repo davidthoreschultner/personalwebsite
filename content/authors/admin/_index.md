@@ -39,10 +39,6 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=OFxq1HIAAAAJ&hl=en
 
-
-
-
-
 #interests:
 #  - Artificial Intelligence
 #  - Computational Linguistics
