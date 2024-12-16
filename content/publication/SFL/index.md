@@ -2,7 +2,7 @@
 title: "Feature-based reward learning shapes human social learning strategies"
 authors:
 - admin
-date: "2024-09-01T00:00:00Z"
+date: "2024-06-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
