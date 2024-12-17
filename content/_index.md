@@ -52,6 +52,7 @@ sections:
     design:
       view: citation
    - block: markdown
+   enable: true
      content:
        title: '📚 My Research'
        subtitle: ''
@@ -63,4 +64,10 @@ sections:
          Please reach out to collaborate 😃
      design:
        columns: '1'
+       - block: markdown
+  content:
+    title: "Hello World"
+    text: "This is a test block."
+  design:
+    columns: '1'
 ---
