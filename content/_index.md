@@ -54,14 +54,15 @@ sections:
     design:
       view: citation
 
-  - block: collection
+   - block: collection
+    id: interviews
     content:
       title: Interviews
-      text: ""
       filters:
         folders:
           - interviews
-        exclude_featured: false
+        featured_only: true
     design:
-      view: citation
+      view: article-grid
+      columns: 2
 ---
