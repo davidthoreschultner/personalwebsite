@@ -1,5 +1,5 @@
 ---
-title: "Looking at how prejudice is learned, passed"
+title: "Interview with Harvard Gazette"
 authors:
 - admin
 date: "2024-09-01T00:00:00Z"
