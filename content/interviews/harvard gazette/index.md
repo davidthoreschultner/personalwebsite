@@ -26,7 +26,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link
   url: https://news.harvard.edu/gazette/story/2024/08/looking-at-how-prejudice-is-learned-passed/
 # url_dataset: '#'
 # url_poster: '#'
