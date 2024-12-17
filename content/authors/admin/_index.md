@@ -20,6 +20,8 @@ organizations:
   - name: Karolinska Institute
     url: https://ki.se/en
 
+ email: d.schultner@gmail.com 
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
