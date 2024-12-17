@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: collection
     id: papers
     content:
@@ -41,6 +42,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -51,4 +53,12 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  # New "Hello World" Block
+  - block: markdown
+    content:
+      title: "Hello World"
+      text: "This is a test block displaying **Hello World**."
+    design:
+      columns: 1
 ---
