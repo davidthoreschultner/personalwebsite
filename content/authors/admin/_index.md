@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Schultner
+title: David T. Schultner
 
 # Full name (for SEO)
 first_name: David
