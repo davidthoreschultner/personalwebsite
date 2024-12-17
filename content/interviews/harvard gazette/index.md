@@ -1,6 +1,6 @@
 ---
 title: "Looking at how prejudice is learned, passed"
-authors: Nikki Rojas
+authors:
 - admin
 date: "2024-09-01T00:00:00Z"
 doi: ""
