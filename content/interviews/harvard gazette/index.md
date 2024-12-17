@@ -17,13 +17,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: Research suggests power, influence of watching behavior of others
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Looking at how prejudice is learned, passed
 
 tags:
-- Proceedings of the National Academy of Sciences (PNAS)
+- Harvard Gazette
 
 featured: true
 
