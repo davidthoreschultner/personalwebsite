@@ -51,4 +51,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      - block: markdown
+  content:
+    title: "Hello World"
+    text: "This is a test block."
+  design:
+    columns: '1'
 ---
