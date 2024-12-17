@@ -60,7 +60,7 @@ sections:
       title: Interviews
       filters:
         folders:
-          - publication
+          - interviews
         featured_only: true
     design:
       view: article-grid
