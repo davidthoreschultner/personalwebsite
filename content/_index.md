@@ -54,13 +54,13 @@ sections:
     design:
       view: citation
 
-   - block: collection
-    id: interviews
+  - block: collection
+    id: papers
     content:
-      title: Interviews
+      title: Featured Publications
       filters:
         folders:
-          - interviews
+          - publication
         featured_only: true
     design:
       view: article-grid
