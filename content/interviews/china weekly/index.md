@@ -1,6 +1,6 @@
 ---
-title: "Looking at how prejudice is learned, passed"
-authors: Nikki Rojas
+title: "Interview with Southern Weekly (in Chinese)"
+authors: 
 - admin
 date: "2024-09-01T00:00:00Z"
 doi: ""
@@ -18,16 +18,16 @@ publication: ""
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: Research suggests power, influence of watching behavior of others
+summary: Interview on Social Learning of Bias
 
 tags:
-- Harvard Gazette
+- Southern Weekly
 
 featured: true
 
 links:
 - name: Link to interview
-  url: https://news.harvard.edu/gazette/story/2024/08/looking-at-how-prejudice-is-learned-passed/
+  url: https://news.qq.com/rain/a/20240915A04NZ900
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
