@@ -1,5 +1,5 @@
 ---
-title: "Harvard Gazette"
+title: "Looking at how prejudice is learned, passed"
 authors:
 - admin
 date: "2024-09-01T00:00:00Z"
@@ -17,10 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Research suggests power, influence of watching behavior of others
-
 # Summary. An optional shortened abstract.
-summary: Looking at how prejudice is learned, passed
+summary: Research suggests power, influence of watching behavior of others
 
 tags:
 - Harvard Gazette
@@ -30,8 +28,6 @@ featured: true
 links:
 - name: Custom Link
   url: https://news.harvard.edu/gazette/story/2024/08/looking-at-how-prejudice-is-learned-passed/
-url_pdf: https://news.harvard.edu/gazette/story/2024/08/looking-at-how-prejudice-is-learned-passed/
-url_code: https://news.harvard.edu/gazette/story/2024/08/looking-at-how-prejudice-is-learned-passed/
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
