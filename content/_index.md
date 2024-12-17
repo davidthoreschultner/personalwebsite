@@ -66,8 +66,10 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: text
+  - block: markdown
     content:
       title: "Hello World"
-      text: "This is a simple text block for debugging."
+      text: "This is a test block displaying **Hello World**."
+    design:
+      columns: 1
 ---
