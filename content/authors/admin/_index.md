@@ -36,9 +36,6 @@ profiles:
     url: https://scholar.google.de/citations?user=OFxq1HIAAAAJ&hl=en
 
 
-
-
-
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
 #     company_url: ''
@@ -138,7 +135,7 @@ awards:
 
 ## About Me
 
-David Schultner is a postdoctoral researcher at Karolinska Institute in Stockholm. His research focuses on social behavior and draws from experimental and computational methods. Some of the questions his research aims to answer are: 
+David Schultner is a postdoctoral researcher at Karolinska Institute in Stockholm. His research focuses on social behavior and draws from experimental and computational methods. His research projects aimed to answer the following questions:
 1. 'How are societal stereotypes internalized as personal prejudice?'
 2. 'Can social biases be transmitted through observational learning?'
 3. 'What are the basic principles underlying social learning?'

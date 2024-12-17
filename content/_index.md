@@ -65,4 +65,20 @@ sections:
     design:
       view: article-grid
       columns: 2
+
+  - block: custom
+    id: personal
+    content:
+      title: "Personal"
+      text: "This is a test block displaying **Hello World**."
+    design:
+      columns: 1
+
+        - block: custom
+    content:
+      title: "Supervision"
+      text: "This is a test block displaying **Hello World**."
+    design:
+      columns: 1
+
 ---
