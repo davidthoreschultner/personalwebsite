@@ -54,11 +54,14 @@ sections:
     design:
       view: citation
 
-  # New "Hello World" Block
-  - block: markdown
+  - block: collection
     content:
-      title: "Hello World"
-      text: "This is a test block displaying **Hello World**."
+      title: Interviews
+      text: ""
+      filters:
+        folders:
+          - interviews
+        exclude_featured: false
     design:
-      columns: 1
+      view: citation
 ---
