@@ -15,6 +15,8 @@ highlight_name: true
 # Role/position/tagline
 role: Postdoctoral researcher
 
+email: dtschultner@gmail.com
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Karolinska Institute
