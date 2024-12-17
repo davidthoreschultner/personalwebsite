@@ -55,9 +55,9 @@ sections:
       view: citation
 
   - block: collection
-    id: papers
+    id: interviews
     content:
-      title: Featured Publications
+      title: Interviews
       filters:
         folders:
           - publication
