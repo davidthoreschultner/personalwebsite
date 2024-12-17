@@ -67,9 +67,10 @@ sections:
       columns: 2
 
   - block: markdown
+  id: personal
     content:
-      title: "Hello World"
-      text: "This is a test block displaying **Hello World**."
+      title: "Personal"
+      text: "Here are some restaurant recommendations for various cities."
     design:
       columns: 1
 ---
