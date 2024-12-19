@@ -67,7 +67,6 @@ sections:
       columns: 2
 
   - block: markdown
-  id: resto
     content:
       title: "Personal"
       text: "Here are some restaurant recommendations for various cities."
