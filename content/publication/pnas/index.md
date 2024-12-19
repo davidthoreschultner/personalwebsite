@@ -28,10 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link
   url: https://www.pnas.org/doi/10.1073/pnas.2414518121
-url_pdf: https://www.pnas.org/doi/10.1073/pnas.2414518121
-url_code: https://www.pnas.org/doi/10.1073/pnas.2414518121
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
