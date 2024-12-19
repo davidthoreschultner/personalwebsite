@@ -69,7 +69,7 @@ sections:
   - block: markdown
     content:
       title: "Personal"
-      text: "Here are some restaurant recommendations for various cities."
+      text: "`YO! Here are some restaurant recommendations for various cities."
     design:
       columns: 1
 ---
