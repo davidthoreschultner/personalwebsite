@@ -67,6 +67,7 @@ sections:
       columns: 2
 
   - block: markdown
+    id: personal-section  # Add your unique ID here
     content:
       title: "Personal"
       text: "Here are some restaurant recommendations for various cities."

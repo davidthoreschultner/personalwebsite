@@ -135,7 +135,7 @@ awards:
 
 ## About Me
 
-WOW! David Schultner is a postdoctoral researcher at Karolinska Institute in Stockholm. His research focuses on social behavior and draws from experimental and computational methods. His research projects aimed to answer the following questions:
+UFF! David Schultner is a postdoctoral researcher at Karolinska Institute in Stockholm. His research focuses on social behavior and draws from experimental and computational methods. His research projects aimed to answer the following questions:
 1. 'How are societal stereotypes internalized as personal prejudice?'
 2. 'Can social biases be transmitted through observational learning?'
 3. 'What are the basic principles underlying social learning?'
