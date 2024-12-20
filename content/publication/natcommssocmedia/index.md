@@ -1,7 +1,6 @@
 ---
 title: "A computational reward learning account of social media engagement"
 authors: "Björn Lindström, Martin Bellander, David T. Schultner, Allen Chang, Philippe N. Tobler & David M. Amodio "
-- admin
 date: "2024-09-01T00:00:00Z"
 doi: ""
 

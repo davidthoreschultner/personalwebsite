@@ -1,7 +1,6 @@
 ---
 title: "Race Effects on Impression Formation in Social Interaction: An Instrumental Learning Account"
 authors: "Iris J. Traast, David T. Schultner, Bertjan Doosje, David M. Amodio"
-- admin
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
