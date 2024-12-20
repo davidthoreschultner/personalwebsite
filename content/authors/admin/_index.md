@@ -34,6 +34,8 @@ profiles:
     url: https://bsky.app/profile/davidschultner.bsky.social
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=OFxq1HIAAAAJ&hl=en
+  - icon: academicons/osf
+    url: https://osf.io/qcwtf/
 
 
 #   - position: Director of Cloud Infrastructure
