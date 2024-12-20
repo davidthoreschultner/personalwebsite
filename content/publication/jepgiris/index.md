@@ -1,11 +1,11 @@
 ---
 title: "Race Effects on Impression Formation in Social Interaction: An Instrumental Learning Account"
-authors: "Iris J. Traast, David T. Schultner, Bertjan Doosje, David M. Amodio"
-date: "2024-09-01T00:00:00Z"
+authors: "Iris J. Traast, <b>David T. Schultner</b>, Bertjan Doosje, David M. Amodio"
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-15T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

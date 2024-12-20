@@ -141,4 +141,4 @@ David Schultner is a postdoctoral researcher at Karolinska Institute in Stockhol
 1. 'How are societal stereotypes internalized as personal prejudice?'
 2. 'Can social biases be transmitted through observational learning?'
 3. 'What are the basic principles underlying social learning?'
-4. 'Which moral values 
+4. 'Which basic principles underlie the emergence of specific moral norms?'
