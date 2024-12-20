@@ -18,7 +18,7 @@ publication: ""
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: Research suggests power, influence of watching behavior of others
+summary: Research suggests power, influence of watching behavior of others 
 
 tags:
 - Harvard Gazette
