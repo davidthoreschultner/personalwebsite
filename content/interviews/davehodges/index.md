@@ -1,6 +1,6 @@
 ---
-title: "Interview with Southern Weekly (in Chinese)"
-authors: 
+title: "The Hidden Game of Bias: How Prejudice Goes Viral Without Saying a Word"
+authors:
 - admin
 date: "2024-09-01T00:00:00Z"
 doi: ""
@@ -18,16 +18,16 @@ publication: ""
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: Piece on our Science Advances article on social learning of bias
+summary: Blog by The People Geek
 
 tags:
-- Southern Weekly
+- The People Geek
 
 featured: true
 
 links:
-- name: Link to interview
-  url: https://news.qq.com/rain/a/20240915A04NZ900
+- name: Link
+  url: https://davehodges.substack.com/p/the-hidden-game-of-bias-how-prejudice?utm_campaign=post&utm_medium=web
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
