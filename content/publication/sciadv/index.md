@@ -1,7 +1,6 @@
 ---
 title: "Transmission of social bias through observational learning"
-authors:
-- admin
+authors: "David T. Schultner, Björn R. Lindström, Mina Cikara, and David M. Amodio"
 date: "2024-07-01T00:00:00Z"
 doi: ""
 

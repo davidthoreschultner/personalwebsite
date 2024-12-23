@@ -1,7 +1,6 @@
 ---
 title: "Transmission of societal stereotypes to individual-level prejudices through instrumental learning"
-authors:
-- admin
+authors: "D. T. Schultner & B.S. Stillerman, B. R. Lindström, L. M. Hackel, D. R. Hagen, N. B. Jostmann, & D. M. Amodio"
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
