@@ -27,7 +27,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link
   url: https://www.science.org/doi/10.1126/sciadv.adk2030
 # url_dataset: '#'
 # url_poster: '#'

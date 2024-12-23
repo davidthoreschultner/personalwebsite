@@ -27,7 +27,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link
   url: https://osf.io/preprints/psyarxiv/zm7ta
 # url_dataset: '#'
 # url_poster: '#'
