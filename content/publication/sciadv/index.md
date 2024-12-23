@@ -29,8 +29,6 @@ featured: true
 links:
 - name: Custom Link
   url: https://www.science.org/doi/10.1126/sciadv.adk2030
-url_pdf: https://www.science.org/doi/10.1126/sciadv.adk2030
-url_code: https://www.science.org/doi/10.1126/sciadv.adk2030
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

@@ -1,7 +1,6 @@
 ---
 title: "Feature-based reward learning shapes human social learning strategies"
-authors:
-- admin
+authors: "D. T. Schultner, L. Molleman, B. R. Lindström"
 date: "2024-06-16T00:00:00Z"
 doi: ""
 
@@ -30,8 +29,6 @@ featured: true
 links:
 - name: Custom Link
   url: https://osf.io/preprints/psyarxiv/zm7ta
-url_pdf: https://osf.io/preprints/psyarxiv/zm7ta
-url_code: https://osf.io/preprints/psyarxiv/zm7ta
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
