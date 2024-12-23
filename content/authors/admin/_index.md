@@ -141,8 +141,8 @@ awards:
 
 ## About Me
 
-David Schultner is a postdoctoral researcher at Karolinska Institute in Stockholm. His research focuses on social behavior and draws from experimental and computational methods. His research projects aimed to answer the following questions:
+I am a postdoctoral researcher working with Dr. Björn Lindström at Karolinska Institute in Stockholm. In my research, I aim to uncover how people learn from their social environments to guide their judgments and decisions. To accomplish this, I use a combination of experiments, computational methods and simulations. Some of my research has investigated these questions:
 1. 'How are societal stereotypes internalized as personal prejudice?'
 2. 'Can social biases be transmitted through observational learning?'
-3. 'What are the basic principles underlying social learning?'
-4. 'Which basic principles underlie the emergence of specific moral norms?'
+3. 'What are the basic principles giving rise to adaptive social learning?'
+4. 'Which mechanisms underlie the emergence of specific moral norms?'
