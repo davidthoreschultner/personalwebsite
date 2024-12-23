@@ -57,7 +57,7 @@ sections:
   - block: collection
     id: interviews
     content:
-      title: In the media
+      title: In the Media
       filters:
         folders:
           - interviews

@@ -10,7 +10,7 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: In the media
+  - name: In the Media
     url: /#interviews
     weight: 12
   - name: Personal
