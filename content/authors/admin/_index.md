@@ -141,7 +141,7 @@ awards:
 
 ## About Me
 
-I am a postdoctoral researcher working with Dr. Björn Lindström at Karolinska Institute in Stockholm. In my research, I aim to uncover how people learn from their social environments to guide their judgments and decisions. To accomplish this, I use a combination of experiments, computational methods and simulations. Some of my research has investigated these questions:
+I am a postdoctoral researcher working at Karolinska Institute in Stockholm. In my research, I aim to uncover how people learn from their social environments to guide their judgments and decisions. To accomplish this, I use a combination of experiments, computational methods and simulations. Some of my research has investigated these questions:
 1. 'How are societal stereotypes internalized as personal prejudice?'
 2. 'Can social biases be transmitted through observational learning?'
 3. 'What are the basic principles giving rise to adaptive social learning?'

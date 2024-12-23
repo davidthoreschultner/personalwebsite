@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: anora.jpg
+          filename: anora_dark.jpg
           filters:
             brightness: 1.0
           size: cover
