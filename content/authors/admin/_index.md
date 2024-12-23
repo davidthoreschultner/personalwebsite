@@ -18,11 +18,11 @@ role: Postdoctoral researcher
 email: dtschultner@gmail.com
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Karolinska Institute
-    url: https://ki.se/en
+#organizations:
+ # - name: Karolinska Institute
+  #  url: https://ki.se/en
 
-email:
+organizations:
   - name: d.schultner@gmail.com
     url: 'mailto:dtschultner@gmail.com'
 
