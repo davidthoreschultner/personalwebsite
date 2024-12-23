@@ -64,7 +64,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 
   - block: markdown
     id: personal-section  # Add your unique ID here
